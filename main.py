@@ -14,7 +14,7 @@ Author: Braden Franklin
 Date: 09/10/21
 Course: Intro to computer Programming 1, Tri 1 2021
 
-Description: WIP
+Description: A Python Turtle graphics program that lets you choose how to carve the pumpkin in the screen.
 
 """
 #allows the user to chose the color of the background
